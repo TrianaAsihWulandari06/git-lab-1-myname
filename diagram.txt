@@ -1,0 +1,5 @@
+* 83ca35b (HEAD -> master, origin/master) feat: implement dark mode toggle functionality
+* 3e3821f feat: add JavaScript file
+* 0b93e85 feat: link CSS stylesheet to HTML
+* ed4dfec feat: add HTML structure and basic styling
+* ef13782 docs: add README with project information
